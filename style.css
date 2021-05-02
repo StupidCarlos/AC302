@@ -1,0 +1,25 @@
+p{
+	color:blue;
+}
+
+.boxed{
+	border:2px double red ;
+	display:flex ;
+	flex-direction:row ;
+justify-content:space-around;
+align-items: center ;
+margin:10px auto;
+background-color: #00FFFF ;
+
+}
+.innerboxed{
+	border:2px solid black;
+	height:70%;
+background-color:yellow;
+padding: 2px 20px;
+}
+img{
+	height:200px; 
+	width :400px;
+}
+
